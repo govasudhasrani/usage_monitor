@@ -1,0 +1,26 @@
+{
+  "name": "usage_monitor",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "elasticsearch": "^14.0.0",
+    "eslint-config-react-tools": "^1.0.10",
+    "moment": "^2.19.2",
+    "react": "^16.1.1",
+    "react-addons-shallow-compare": "^15.6.2",
+    "react-dates": "^15.1.0",
+    "react-dom": "^16.1.1",
+    "react-scripts": "1.0.17",
+    "react-table": "^6.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0"
+  }
+}
